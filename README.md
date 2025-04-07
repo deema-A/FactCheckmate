@@ -27,3 +27,19 @@ the last n tokens.
 | Llama3-70B-Instruct     | 81.0      | 77.1   | 73.3    | 69.6    | 65.9    | 87.6        | 79.6     | 76.5      | 76.4      | 73.4      | 74.7          | 67.6        | 64.5         | 63.6         | 61.0         | 82.7        | 78.8       | 72.5       | 71.3       | 69.4       |
 
 
+## Citation
+
+
+If you find our work useful, please feel free to cite our work:
+
+
+```bibtex
+@misc{alnuhait2024factcheckmatepreemptivelydetectingmitigating,
+      title={FactCheckmate: Preemptively Detecting and Mitigating Hallucinations in LMs}, 
+      author={Deema Alnuhait and Neeraja Kirtane and Muhammad Khalifa and Hao Peng},
+      year={2024},
+      eprint={2410.02899},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.02899}, 
+}
